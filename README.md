@@ -25,12 +25,12 @@
 
 
 ## Star Wars TV Tracker
-- original
-- Heroku [url]
+- original project
+- Heroku [https://swtv-tracker.herokuapp.com/]
 - Demo [google oauth]
-- Github [url]
+- Github [https://github.com/tris-n/portfolio-star-wars---tv-tracker]
 - MongoDb [Portfolio]
-- Date: tbc
+- Date: 12th July 2022
 
 <!---
 - 👋 Hi, I’m @tris-n
