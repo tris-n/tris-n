@@ -14,10 +14,10 @@
 
 ## Feedback UI
 - Traversy [https://www.udemy.com/course/react-front-to-back-2022/]
-- Netlify [url]
-- Demo [null]
-- Github [url]
-- MongoDb [null]
+- Netlify [https://luminous-maamoul-a977d4.netlify.app/]
+- Demo [n/a]
+- Github [https://github.com/tris-n/traversy---react-udemy-2022]
+- MongoDb [n/a]
 - Date: 12th July 2022
 
 ## Star Wars TV Tracker
