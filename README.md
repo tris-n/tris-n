@@ -40,6 +40,22 @@
 ![tvtracker-02](https://user-images.githubusercontent.com/70119051/178483872-73d369ca-004f-4860-8a87-8d66993a5e71.jpg)
 
 
+
+## Github Finder
+- Traversy [https://www.udemy.com/course/react-front-to-back-2022/]
+- Netlify (localstorage) []
+- Heroku (MERN) []
+- Demo [n/a]
+- Github [https://github.com/tris-n/traversy---react-udemy-2022---github-finder]
+- MongoDb []
+- Frontend [framer-motion react-icons] | Backend [express-async-handler]
+- Notes: useReducers
+- Date: 22nd July 2022
+
+<!-- ![feedback-01](https://user-images.githubusercontent.com/70119051/178432311-b4f3b894-3063-4d38-840c-20796adfcbf7.jpg)
+![feedback-02](https://user-images.githubusercontent.com/70119051/178432346-6707637e-d37c-4c1b-b46d-f93af81a0228.jpg) -->
+
+
 <!---
 - 👋 Hi, I’m @tris-n
 - 👀 I’m interested in ...
