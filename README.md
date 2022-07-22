@@ -14,11 +14,12 @@
 
 ## Feedback UI
 - Traversy [https://www.udemy.com/course/react-front-to-back-2022/]
-- Netlify [https://luminous-maamoul-a977d4.netlify.app/]
+- Netlify (localstorage) [https://luminous-maamoul-a977d4.netlify.app/]
+- Heroku (MERN) [https://traversy-feedback-app.herokuapp.com/]
 - Demo [n/a]
-- Github [https://github.com/tris-n/traversy---react-udemy-2022]
-- MongoDb [n/a]
-- Date: 12th July 2022
+- Github [https://github.com/tris-n/traversy---react-udemy-2022---feedback-app]
+- MongoDb [Traversy FEEDBACK APP 2022]
+- Date: 12th July 2022 (updated 22nd July 2022)
 
 ![feedback-01](https://user-images.githubusercontent.com/70119051/178432311-b4f3b894-3063-4d38-840c-20796adfcbf7.jpg)
 ![feedback-02](https://user-images.githubusercontent.com/70119051/178432346-6707637e-d37c-4c1b-b46d-f93af81a0228.jpg)
