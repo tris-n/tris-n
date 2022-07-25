@@ -59,6 +59,10 @@
 - State [useContext, useReducer]
 - Date: 22nd July 2022 (updated 25th July 2022)
 
+![github-finder-01](https://user-images.githubusercontent.com/70119051/180698853-59cb20df-89e5-44ed-a0de-f1ac80b2fff1.jpg)
+![github-finder-02](https://user-images.githubusercontent.com/70119051/180698874-1c4deb51-4fc1-44ea-bee1-11046d4c10fa.jpg)
+
+
 
 <!---
 - 👋 Hi, I’m @tris-n
