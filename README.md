@@ -33,7 +33,7 @@
 
 ## Star Wars TV Tracker
 - original project
-- Heroku [https://swtv-tracker.herokuapp.com/]
+- Heroku (MERN) [https://swtv-tracker.herokuapp.com/]
 - Demo [google oauth]
 - Github [https://github.com/tris-n/portfolio-star-wars---tv-tracker]
 - MongoDb [Portfolio]
@@ -49,18 +49,15 @@
 
 ## Github Finder
 - Traversy [https://www.udemy.com/course/react-front-to-back-2022/]
-- Netlify (localstorage) []
-- Heroku (MERN) []
+- Vercel [https://traversy-react-udemy-2022-github-finder.vercel.app/]
+- Heroku (MERN) [n/a]
 - Demo [n/a]
 - Github [https://github.com/tris-n/traversy---react-udemy-2022---github-finder]
-- MongoDb []
-- Frontend [framer-motion react-icons]
-- Backend [express-async-handler]
-- State [useContext]
-- Date: 22nd July 2022
-
-<!-- ![feedback-01](https://user-images.githubusercontent.com/70119051/178432311-b4f3b894-3063-4d38-840c-20796adfcbf7.jpg)
-![feedback-02](https://user-images.githubusercontent.com/70119051/178432346-6707637e-d37c-4c1b-b46d-f93af81a0228.jpg) -->
+- MongoDb [n/a]
+- Frontend [axios tailwindcss daisyui react-icons]
+- Backend [n/a]
+- State [useContext, useReducer]
+- Date: 22nd July 2022 (updated 25th July 2022)
 
 
 <!---
