@@ -46,7 +46,6 @@
 ![tvtracker-02](https://user-images.githubusercontent.com/70119051/178483872-73d369ca-004f-4860-8a87-8d66993a5e71.jpg)
 
 
-
 ## Github Finder
 - Traversy [https://www.udemy.com/course/react-front-to-back-2022/]
 - Vercel [https://traversy-react-udemy-2022-github-finder.vercel.app/]
@@ -61,6 +60,19 @@
 
 ![github-finder-01](https://user-images.githubusercontent.com/70119051/180698853-59cb20df-89e5-44ed-a0de-f1ac80b2fff1.jpg)
 ![github-finder-02](https://user-images.githubusercontent.com/70119051/180698874-1c4deb51-4fc1-44ea-bee1-11046d4c10fa.jpg)
+
+
+## Advanced Hooks
+- Traversy [https://www.udemy.com/course/react-front-to-back-2022/]
+- Vercel [https://traversy-react-udemy-2022-github-finder.vercel.app]
+- Github [https://github.com/tris-n/traversy---react-udemy-2022---advanced-hooks]
+- Frontend [bootstrap@5 react-router-dom NavLinks:activeClassName Route:NavigateTo]
+- Hooks [UseRef, UseMemo, UseCallback, Custom Hooks]
+- Date: 26th July 2022
+
+![advanced-hooks-01](https://user-images.githubusercontent.com/70119051/180932014-d2801fa3-6114-47dd-a261-1d2e37e19fb3.jpg)
+![advanced-hooks-02](https://user-images.githubusercontent.com/70119051/180932036-f9e87c76-8a40-4596-8452-a357f6b3e357.jpg)
+
 
 
 
