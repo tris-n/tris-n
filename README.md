@@ -74,6 +74,17 @@
 ![advanced-hooks-02](https://user-images.githubusercontent.com/70119051/180932036-f9e87c76-8a40-4596-8452-a357f6b3e357.jpg)
 
 
+## House Marketplace
+- Traversy [https://www.udemy.com/course/react-front-to-back-2022/]
+- Vercel []
+- Firebase [traversy-house-marketplace]
+- Github [https://github.com/tris-n/traversy---react-udemy-2022---house-marketplace]
+- Frontend [react-router-dom]
+- Backend [n/a]
+- State []
+- Hooks [UseNavigate, UseLocation]
+- Date: 26th July 2022
+
 
 
 <!---
