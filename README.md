@@ -41,3 +41,14 @@ A comprehensive film production management tool.<br/>
 **APIs:** TheMovieDB<br/>
 [View Repo](https://github.com/tris-n/studiopm)<img src="readme/images/spacer.png" width="15" height="25"/>
 [Live Demo](https://www.mystudiopm.com)<br/>
+
+<br/>
+
+### [ChatCapsule](https://github.com/tris-n/chatcapsule)
+A platform for saving ChatGPT conversations for future reference.<br/>
+[<img src="readme/images/chatcapsule.png" width="450">](https://github.com/tris-n/chatcapsule)<br/>
+**Core Technologies:** TypeScript Next.js Tailwind CSS<br/>
+**Database:** MongoDB Mongoose<br/>
+**Authentication:** Google Oauth Next-Auth<br/>
+[View Repo](https://github.com/tris-n/chatcapsule)<img src="readme/images/spacer.png" width="15" height="25"/>
+[Live Demo](https://portfolio-chatcapsule-nextjs14.vercel.app/)<br/>
