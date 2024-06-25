@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Tristan, a full stack developer with a rich foundation in design, advertising, and screenwriting. This unique blend of experiences has shaped my approach to web development, allowing me to create applications that are not only functional but deeply engaging and intuitive. 
+I'm Tristan, a frontend developer with a rich foundation in design, advertising, and screenwriting. This unique blend of experiences has shaped my approach to web development, allowing me to create applications that are not only functional but deeply engaging and intuitive. 
 
 Drawing from my background in visual storytelling and design principles, I specialize in frontend development using React and backend applications with Node.js, MongoDB, and Express. My approach is always user-centric, and I thrive in collaborative environments. 
 
