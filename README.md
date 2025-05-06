@@ -9,46 +9,46 @@ My diverse career has honed my adaptability and analytical problem-solving skill
 
 ## Projects
 
-### [BugTrackerX](https://github.com/tris-n/bugtrackerx)
+### [Trackly](https://github.com/tris-n/trackly)
 A full stack web app for businesses to efficiently track and manage software bugs.<br/>
-[<img src="readme/images/bugtrackerx.png" width="450">](https://github.com/tris-n/bugtrackerx)<br/>
+[<img src="readme/images/trackly.png" width="450">](https://github.com/tris-n/trackly)<br/>
 **Frontend:** Javascript React Material-UI Redux Firebase Firestore Framer-Motion ApexCharts Dayjs Toastify<br/>
 **Backend:** NodeJS Mongoose Express bcryptjs<br/>
 **Database:** MongoDB<br/>
-[View Repo](https://github.com/tris-n/bugtrackerx)<img src="readme/images/spacer.png" width="15" height="25	"/>
-[Live Demo](https://www.bugtrackerx.com)<br/>
+[View Repo](https://github.com/tris-n/trackly)<img src="readme/images/spacer.png" width="15" height="25	"/>
+[Live Demo](https://trackly-ff4bcc1da5d5.herokuapp.com/)<br/>
 
 <br/>
 
-### [HomeFinder](https://github.com/tris-n/homefinder)
+### [Hearth](https://github.com/tris-n/hearth)
 A dynamic platform for buying, selling, and renting properties.<br/>
-[<img src="readme/images/homefinder.png" width="450">](https://github.com/tris-n/homefinder)<br/>
+[<img src="readme/images/hearth.png" width="450">](https://github.com/tris-n/hearth)<br/>
 **Frontend:** Javascript React Framer-Motion Leaflet Swiper Toastify<br/>
 **Backend:** NodeJS Mongoose Express Firebase-Admin bcryptjs<br/>
 **Database:** Firebase Firestore<br/>
 **APIs:** GoogleMaps API Google OAuth<br/>
-[View Repo](https://github.com/tris-n/homefinder)<img src="readme/images/spacer.png" width="15" height="25"/>
-[Live Demo](https://www.homefinder-app.com)<br/>
+[View Repo](https://github.com/tris-n/hearth)<img src="readme/images/spacer.png" width="15" height="25"/>
+[Live Demo](https://hearth-1a8de8a7ce41.herokuapp.com/)<br/>
 
 <br/>
 
-### [StudioPM](https://github.com/tris-n/studiopm)
+### [StudioFlow](https://github.com/tris-n/studioflow)
 A comprehensive film production management tool.<br/>
-[<img src="readme/images/studiopm.png" width="450">](https://github.com/tris-n/studiopm)<br/>
+[<img src="readme/images/studioflow.png" width="450">](https://github.com/tris-n/studioflow)<br/>
 **Frontend:** Javascript React Material-UI Redux Firebase Firestore Framer-Motion Lodash Dayjs Toastify<br/>
 **Backend:** NodeJS Mongoose Express bcryptjs<br/>
 **Database:** MongoDB<br/>
 **APIs:** TheMovieDB<br/>
-[View Repo](https://github.com/tris-n/studiopm)<img src="readme/images/spacer.png" width="15" height="25"/>
-[Live Demo](https://www.mystudiopm.com)<br/>
+[View Repo](https://github.com/tris-n/studioflow)<img src="readme/images/spacer.png" width="15" height="25"/>
+[Live Demo](https://studioflow-b3693e96f173.herokuapp.com/)<br/>
 
 <br/>
 
-### [ChatCapsule](https://github.com/tris-n/chatcapsule)
+### [Captivo](https://github.com/tris-n/captivo)
 A platform for saving ChatGPT conversations for future reference.<br/>
-[<img src="readme/images/chatcapsule.png" width="450">](https://github.com/tris-n/chatcapsule)<br/>
+[<img src="readme/images/captivo.png" width="450">](https://github.com/tris-n/captivo)<br/>
 **Core Technologies:** TypeScript Next.js Tailwind CSS<br/>
 **Database:** MongoDB Mongoose<br/>
 **Authentication:** Google Oauth Next-Auth<br/>
-[View Repo](https://github.com/tris-n/chatcapsule)<img src="readme/images/spacer.png" width="15" height="25"/>
-[Live Demo](https://portfolio-chatcapsule-nextjs14.vercel.app/)<br/>
+[View Repo](https://github.com/tris-n/captivo)<img src="readme/images/spacer.png" width="15" height="25"/>
+[Live Demo](https://captivo.vercel.app/)<br/>
